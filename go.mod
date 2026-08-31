@@ -1,4 +1,4 @@
-module github.com/redhat-ai-dev/rhdh-mcp-proxy
+module github.com/redhat-developer/rhdh-mcp-proxy
 
 go 1.22
 
