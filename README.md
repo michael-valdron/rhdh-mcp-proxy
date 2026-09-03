@@ -75,6 +75,6 @@ go build -o mcp-proxy main.go
 
 ## Requirements
 
-- Go 1.22 or newer
+- Go 1.26 or newer
 - Access to a Backstage instance with MCP server
 - Valid Bearer token for the Backstage MCP server
